@@ -1,0 +1,21 @@
+{
+  "name": "common-dal",
+  "version": "0.0.1",
+  "description": "Common data access layer functions using Sequelize.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Fasenmyer",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.14",
+    "lodash": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1",
+    "should": "^5.2.0",
+    "should-promised": "^0.2.0",
+    "sinon": "^1.14.0"
+  }
+}
